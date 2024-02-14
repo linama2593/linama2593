@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dr. Lina Anaya</h1>
 <h3 align="center">Passionate about translating data & research into actionable strategies</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=linama2593" alt="linama2593" /></a> </p>
-
 - 🔭 I’m currently working on: [Navigating the Spectrum of Depression and Anxiety with Predictive Machine Learning in Spain](https://github.com/linama2593/mental_health_spain)
 
 - 👨‍💻 All of my projects are available at: [https://github.com/linama2593](https://github.com/linama2593)
