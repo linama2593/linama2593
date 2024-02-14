@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Dr. Lina Anaya</h1>
 <h3 align="center">Passionate about translating data & research into actionable strategies</h3>
 
-- 🔭 I’m currently working on [Navigating the Spectrum of Depression and Anxiety with Predictive Machine Learning in Spain](https://github.com/linama2593/mental_health_spain)
+- 🔭 I’m currently working on: [Navigating the Spectrum of Depression and Anxiety with Predictive Machine Learning in Spain](https://github.com/linama2593/mental_health_spain)
 
-- 👨‍💻 All of my projects are available at [https://github.com/linama2593](https://github.com/linama2593)
+- 👨‍💻 All of my projects are available at: [https://github.com/linama2593](https://github.com/linama2593)
 
-- 📝 Check my published journal articles here [https://scholar.google.com/citations?user=4VJuevsAAAAJ&hl=en](https://scholar.google.com/citations?user=4VJuevsAAAAJ&hl=en)
+- 📝 Check my published journal articles here: [https://scholar.google.com/citations?user=4VJuevsAAAAJ&hl=en](https://scholar.google.com/citations?user=4VJuevsAAAAJ&hl=en)
 
-- 💬 Ask me about **Statistics, Econometrics, Causal Inference & Machine Learning**
+- 💬 Ask me about: **Statistics, Econometrics, Causal Inference & Machine Learning**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/lina-anaya/](https://www.linkedin.com/in/lina-anaya/)
+- 📄 Know about my experiences: [https://www.linkedin.com/in/lina-anaya/](https://www.linkedin.com/in/lina-anaya/)
 
-- ⚡ Fun fact **I am a good dancer!**
+- ⚡ Fun fact: **I am a good dancer!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
